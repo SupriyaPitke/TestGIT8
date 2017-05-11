@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="github8"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{3444BB88-CFD0-40C7-8E9B-8C572F01C6CF}"/>
+    <Version min="13021"/>
+    <SourceVersion val="13021.00"/>
+  </_Project>
+
+</Application>
